@@ -1,4 +1,6 @@
-﻿Shader "Unlit/Hologram"
+﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
+
+Shader "Unlit/Hologram"
 {
     Properties
     {
@@ -60,9 +62,9 @@
             v2f vert (appdata v)
             {
                 v2f o;
-                o.localPos = v.vertex;
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 UNITY_TRANSFER_FOG(o,o.vertex);
+                o.localPos = mul(unity_ObjectToWorld, v.vertex);
                 return o;
             }
 
