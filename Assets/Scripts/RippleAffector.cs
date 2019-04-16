@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-[ExecuteAlways]
+
 public class RippleAffector : MonoBehaviour
 {
     static public Vector4[] ripples = new Vector4[10];
@@ -26,7 +26,7 @@ public class RippleAffector : MonoBehaviour
 
     void OnTriggerStay(Collider col) {
         if(col.tag == "Player") {
-            if(Time.time - lastUpdateTime > 0.2f) {
+            if(Time.time - lastUpdateTime > 0.5f) {
             ripples[nextIndex] = new Vector4(col.transform.position.x, col.transform.position.y, col.transform.position.z, Time.timeSinceLevelLoad);
             nextIndex++;
             if(nextIndex >= 10) nextIndex = 0;
