@@ -9,7 +9,7 @@ public class RippleAffector : MonoBehaviour
     static public Vector4[] ripples = new Vector4[10];
     static public int nextIndex = 0;
     private float lastUpdateTime = 0;
-    private Material rippleMat;
+    public Material rippleMat;
 
     private Vector3 lastPos = Vector3.one * 10000;
 

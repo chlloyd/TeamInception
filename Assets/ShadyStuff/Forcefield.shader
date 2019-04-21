@@ -6,7 +6,8 @@
     }
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "RenderType"="Transparent" }
+        Blend SrcAlpha OneMinusSrcAlpha
         LOD 100
 
         Pass
@@ -70,10 +71,10 @@
                 }
 
                 // sample the texture
-                fixed4 col = tex2D(_MainTex, i.uv + float2(netOffset.x, -netOffset.y));
+                fixed4 col = tex2D(_MainTex, i.uv + float2(netOffset.x, -netOffset.y * 2));
                 // apply fog
                 UNITY_APPLY_FOG(i.fogCoord, col);
-                return col + lerp(float4(0.2, 0.5, 1.0, 1.0), float4(0.5, 0.2, 1.0, 1.0), sin(_Time.x * 5)) * length(netOffset) * 5;
+                return col + lerp(float4(0.2, 1.0, 1.0, 1.0), float4(0.5, 0.2, 1.0, 1.0), sin(_Time.x * 5)) * length(netOffset) * 10;
                 //return length(_RippleOrigins[0].xyz - i.worldPos.xyz);
                 //return _Time.y % 1.0;
             }
