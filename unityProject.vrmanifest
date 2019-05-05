@@ -2,13 +2,13 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.teaminception.exe",
+      "app_key": "application.generated.unity.teaminceptionstation.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "/Users/ashleighrowe/TeamInception/actions.json",
+      "action_manifest_path": "V:\\KieranAndAsh\\TeamInceptionStation\\actions.json",
       "strings": {
         "en_us": {
-          "name": "TeamInception [Testing]"
+          "name": "TeamInceptionStation [Testing]"
         }
       }
     }

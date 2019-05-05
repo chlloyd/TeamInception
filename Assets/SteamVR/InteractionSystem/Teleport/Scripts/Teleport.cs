@@ -14,7 +14,11 @@ namespace Valve.VR.InteractionSystem
 	public class Teleport : MonoBehaviour
     {
         public SteamVR_Action_Boolean teleportAction = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("Teleport");
-
+		//Layer mask used for all walls
+		//(objects which the play area
+		//may not enter)
+		//-Kieran
+		public LayerMask wallLayerMask;
         public LayerMask traceLayerMask;
 		public LayerMask floorFixupTraceLayerMask;
 		public float floorFixupMaximumTraceDistance = 1.0f;
@@ -65,6 +69,12 @@ namespace Valve.VR.InteractionSystem
 		public MeshRenderer floorDebugSphere;
 		public LineRenderer floorDebugLine;
 
+
+		//Extra condition added that prevents
+		//the player from teleporting if their
+		//play area is out of bounds
+		//-Kieran
+		private bool playAreaInBounds = true;
 		private LineRenderer pointerLineRenderer;
 		private GameObject teleportPointerObject;
 		private Transform pointerStartTransform;
@@ -98,6 +108,9 @@ namespace Valve.VR.InteractionSystem
 		private Transform playAreaPreviewTransform;
 		private Transform[] playAreaPreviewCorners;
 		private Transform[] playAreaPreviewSides;
+		//Material used by the side renderers
+		//-Kieran
+		private Material playAreaMat;
 
 		private float loopingAudioMaxVolume = 0.0f;
 
@@ -406,6 +419,40 @@ namespace Valve.VR.InteractionSystem
 						playAreaPreviewTransform.position = pointedAtPosition + offsetToUse;
 
 						showPlayAreaPreview = true;
+
+						//Use the fact that we know know where
+						//the play area is to check if
+						//the player will teleport into a wall.
+						//-Kieran
+						Vector3 halfBoxSize = playAreaPreviewTransform.position - playAreaPreviewCorners[0].position;
+						halfBoxSize.x = Mathf.Abs(halfBoxSize.x);
+						halfBoxSize.y = Mathf.Abs(halfBoxSize.y);
+						halfBoxSize.z = Mathf.Abs(halfBoxSize.z);
+
+						if(Physics.CheckBox(playAreaPreviewTransform.position, halfBoxSize, Quaternion.identity, wallLayerMask)) {
+							//Disallow teleportation.
+							//(Code basically copied from the
+							//'Hit neither' case below)
+							teleportArc.SetColor( pointerInvalidColor );
+							playAreaMat.SetColor( "Tint Color", pointerInvalidColor );
+#if (UNITY_5_4)
+							pointerLineRenderer.SetColors( pointerInvalidColor, pointerInvalidColor );
+#else
+							pointerLineRenderer.startColor = pointerInvalidColor;
+							pointerLineRenderer.endColor = pointerInvalidColor;
+#endif
+							invalidReticleTransform.gameObject.SetActive( !pointerAtBadAngle );
+							//Similar code to that used in the "rotate to match normals" Slerp
+							invalidReticleTransform.rotation = Quaternion.Slerp( invalidReticleTransform.rotation, Quaternion.FromToRotation(Vector3.up, Vector3.up), 0.1f );
+							
+							offsetReticleTransform.gameObject.SetActive( false );
+							destinationReticleTransform.gameObject.SetActive( false );
+
+							playAreaInBounds = false;
+						} else {
+							playAreaInBounds = true;
+							playAreaMat.SetColor( "Tint Color", pointerValidColor );
+						}
 					}
 				}
 
@@ -573,6 +620,10 @@ namespace Valve.VR.InteractionSystem
 					playAreaPreviewSides[1] = Instantiate( playAreaPreviewSides[0] );
 					playAreaPreviewSides[2] = Instantiate( playAreaPreviewSides[0] );
 					playAreaPreviewSides[3] = Instantiate( playAreaPreviewSides[0] );
+
+					//Getting the material for tinting
+					//-Kieran
+					playAreaMat = playAreaPreviewSides[0].gameObject.GetComponent<MeshRenderer>().material;
 
 					playAreaPreviewSides[0].transform.parent = playAreaPreviewTransform;
 					playAreaPreviewSides[1].transform.parent = playAreaPreviewTransform;
@@ -812,7 +863,12 @@ namespace Valve.VR.InteractionSystem
 		{
 			if ( visible && !teleporting )
 			{
-				if ( pointedAtTeleportMarker != null && pointedAtTeleportMarker.locked == false )
+				//playAreaInBounds is an extra condition
+				//added so that the player
+				//can't teleport inside walls 
+				//
+				//-Kieran
+				if ( pointedAtTeleportMarker != null && pointedAtTeleportMarker.locked == false && playAreaInBounds )
 				{
 					//Pointing at an unlocked teleport marker
 					teleportingToMarker = pointedAtTeleportMarker;
