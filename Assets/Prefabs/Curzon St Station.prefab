@@ -17775,7 +17775,7 @@ GameObject:
   - component: {fileID: 1526438641170699681}
   - component: {fileID: 4869824499400393521}
   - component: {fileID: 5126081473093586655}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane46
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17923,7 +17923,7 @@ GameObject:
   - component: {fileID: 1138572247635088038}
   - component: {fileID: 7461995333852649978}
   - component: {fileID: 3108049825999730936}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane47
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18071,7 +18071,7 @@ GameObject:
   - component: {fileID: 4272113552548862454}
   - component: {fileID: 5352746416920850097}
   - component: {fileID: 7372314313391377599}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane44
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18219,7 +18219,7 @@ GameObject:
   - component: {fileID: 3759725739475589005}
   - component: {fileID: 5471942437715164215}
   - component: {fileID: 3664396612373914976}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane45
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22382,7 +22382,7 @@ GameObject:
   - component: {fileID: 6897375273640106303}
   - component: {fileID: 4633688779628140967}
   - component: {fileID: 8769913662580497024}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22684,7 +22684,7 @@ GameObject:
   - component: {fileID: 1578329986597089407}
   - component: {fileID: 3460669953039478474}
   - component: {fileID: 2366983677790804452}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22832,7 +22832,7 @@ GameObject:
   - component: {fileID: 5418143562185647854}
   - component: {fileID: 7824764653626374500}
   - component: {fileID: 996138714318443183}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22980,7 +22980,7 @@ GameObject:
   - component: {fileID: 6442545119620499457}
   - component: {fileID: 740597020478967830}
   - component: {fileID: 2332130593623816856}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23128,7 +23128,7 @@ GameObject:
   - component: {fileID: 1544305673820938950}
   - component: {fileID: 6314915581728012834}
   - component: {fileID: 6056716333774305335}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23276,7 +23276,7 @@ GameObject:
   - component: {fileID: 6353793034384662746}
   - component: {fileID: 4177245223262090760}
   - component: {fileID: 2288714135934964361}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23424,7 +23424,7 @@ GameObject:
   - component: {fileID: 4234885544691156276}
   - component: {fileID: 545051629398740314}
   - component: {fileID: 8892889336580578431}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23572,7 +23572,7 @@ GameObject:
   - component: {fileID: 5853345407603123314}
   - component: {fileID: 4091990241795927516}
   - component: {fileID: 7818157501075675585}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23720,7 +23720,7 @@ GameObject:
   - component: {fileID: 345958764534846344}
   - component: {fileID: 536239123587872439}
   - component: {fileID: 3680593149636053343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23868,7 +23868,7 @@ GameObject:
   - component: {fileID: 1714837230876941768}
   - component: {fileID: 2088954405650960302}
   - component: {fileID: 8913090938402082449}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24016,7 +24016,7 @@ GameObject:
   - component: {fileID: 361998643653584321}
   - component: {fileID: 5826369366997392722}
   - component: {fileID: 803965306516912601}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24241,7 +24241,7 @@ GameObject:
   - component: {fileID: 1942380373266056348}
   - component: {fileID: 5762759053275388562}
   - component: {fileID: 3121096267261920957}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24389,7 +24389,7 @@ GameObject:
   - component: {fileID: 7882036148372562686}
   - component: {fileID: 5861831260850813881}
   - component: {fileID: 639035976205587450}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24537,7 +24537,7 @@ GameObject:
   - component: {fileID: 3654038453593419108}
   - component: {fileID: 6403649938416155741}
   - component: {fileID: 4705659933721373001}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane36
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24685,7 +24685,7 @@ GameObject:
   - component: {fileID: 4685757326095635459}
   - component: {fileID: 1564261050605145924}
   - component: {fileID: 4336155242948349482}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24833,7 +24833,7 @@ GameObject:
   - component: {fileID: 589989908230584152}
   - component: {fileID: 5367403007269568200}
   - component: {fileID: 8868233506377320105}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24981,7 +24981,7 @@ GameObject:
   - component: {fileID: 2905146410263364523}
   - component: {fileID: 7637676203255150506}
   - component: {fileID: 1499300667519530011}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane39
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25221,7 +25221,7 @@ GameObject:
   - component: {fileID: 8063215533446974430}
   - component: {fileID: 9205245640027353438}
   - component: {fileID: 6168360921219371225}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane37
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25369,7 +25369,7 @@ GameObject:
   - component: {fileID: 1056446211717114375}
   - component: {fileID: 8562078168189733865}
   - component: {fileID: 4371532402691842354}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane38
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25517,7 +25517,7 @@ GameObject:
   - component: {fileID: 935933094115281186}
   - component: {fileID: 3138599333494312212}
   - component: {fileID: 1701278050364497759}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25665,7 +25665,7 @@ GameObject:
   - component: {fileID: 9128560521572857326}
   - component: {fileID: 1250144276617247348}
   - component: {fileID: 67446461593273181}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25813,7 +25813,7 @@ GameObject:
   - component: {fileID: 6400706400357944576}
   - component: {fileID: 1022108016944992060}
   - component: {fileID: 1850285936304012407}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25961,7 +25961,7 @@ GameObject:
   - component: {fileID: 2967274431546477642}
   - component: {fileID: 7107177321703635079}
   - component: {fileID: 2221333668827127262}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: pPlane41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28165,7 +28165,7 @@ GameObject:
   - component: {fileID: 700351115533976144}
   - component: {fileID: 700351115532877968}
   - component: {fileID: 5392939730321262029}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28256,7 +28256,7 @@ GameObject:
   - component: {fileID: 700351115533976146}
   - component: {fileID: 700351115532877970}
   - component: {fileID: 2560056329094420509}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28529,7 +28529,7 @@ GameObject:
   - component: {fileID: 700351115533976152}
   - component: {fileID: 700351115532877976}
   - component: {fileID: 6037383539321528477}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28620,7 +28620,7 @@ GameObject:
   - component: {fileID: 700351115533976154}
   - component: {fileID: 700351115532877978}
   - component: {fileID: 7546960967783900473}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28711,7 +28711,7 @@ GameObject:
   - component: {fileID: 700351115533976156}
   - component: {fileID: 700351115532877980}
   - component: {fileID: 1482545208460851468}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28802,7 +28802,7 @@ GameObject:
   - component: {fileID: 700351115533976158}
   - component: {fileID: 700351115532877982}
   - component: {fileID: 8238010342484269290}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28893,7 +28893,7 @@ GameObject:
   - component: {fileID: 700351115533976160}
   - component: {fileID: 700351115532877984}
   - component: {fileID: 6619218859341460796}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28984,7 +28984,7 @@ GameObject:
   - component: {fileID: 700351115533976162}
   - component: {fileID: 700351115532877986}
   - component: {fileID: 4189904234548649981}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29075,7 +29075,7 @@ GameObject:
   - component: {fileID: 700351115533976164}
   - component: {fileID: 700351115532877988}
   - component: {fileID: 6444605444759670073}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29166,7 +29166,7 @@ GameObject:
   - component: {fileID: 700351115533976166}
   - component: {fileID: 700351115532877990}
   - component: {fileID: 5030460987034057392}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29254,7 +29254,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 700351115531108952}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PillarsPlatform3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29390,7 +29390,7 @@ GameObject:
   - component: {fileID: 700351115533976172}
   - component: {fileID: 700351115532877996}
   - component: {fileID: 9027729935356399307}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29481,7 +29481,7 @@ GameObject:
   - component: {fileID: 700351115533976174}
   - component: {fileID: 700351115532877998}
   - component: {fileID: 259550464384007932}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pillar9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29572,7 +29572,7 @@ GameObject:
   - component: {fileID: 700351115533976312}
   - component: {fileID: 700351115532878136}
   - component: {fileID: 4889280933360154218}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29663,7 +29663,7 @@ GameObject:
   - component: {fileID: 700351115533976314}
   - component: {fileID: 700351115532878138}
   - component: {fileID: 7164427299441639702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29754,7 +29754,7 @@ GameObject:
   - component: {fileID: 700351115533976316}
   - component: {fileID: 700351115532878140}
   - component: {fileID: 1634461027641691446}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29845,7 +29845,7 @@ GameObject:
   - component: {fileID: 700351115533976318}
   - component: {fileID: 700351115532878142}
   - component: {fileID: 6350183757751340341}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29936,7 +29936,7 @@ GameObject:
   - component: {fileID: 700351115533976192}
   - component: {fileID: 700351115532878016}
   - component: {fileID: 1289985555322853644}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30027,7 +30027,7 @@ GameObject:
   - component: {fileID: 700351115533976194}
   - component: {fileID: 700351115532878018}
   - component: {fileID: 1736376342026757534}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30118,7 +30118,7 @@ GameObject:
   - component: {fileID: 700351115533976196}
   - component: {fileID: 700351115532878020}
   - component: {fileID: 1739539137524356649}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30209,7 +30209,7 @@ GameObject:
   - component: {fileID: 700351115533976198}
   - component: {fileID: 700351115532878022}
   - component: {fileID: 550863377133957761}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30300,7 +30300,7 @@ GameObject:
   - component: {fileID: 700351115533976200}
   - component: {fileID: 700351115532878024}
   - component: {fileID: 1180942194343797734}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30391,7 +30391,7 @@ GameObject:
   - component: {fileID: 700351115533976202}
   - component: {fileID: 700351115532878026}
   - component: {fileID: 8353459060218946680}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30482,7 +30482,7 @@ GameObject:
   - component: {fileID: 700351115533976204}
   - component: {fileID: 700351115532878028}
   - component: {fileID: 655024215082546644}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30573,7 +30573,7 @@ GameObject:
   - component: {fileID: 700351115533976206}
   - component: {fileID: 700351115532878030}
   - component: {fileID: 4404119597573018342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30664,7 +30664,7 @@ GameObject:
   - component: {fileID: 700351115533976208}
   - component: {fileID: 700351115532878032}
   - component: {fileID: 4721395684735337629}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30755,7 +30755,7 @@ GameObject:
   - component: {fileID: 700351115533976210}
   - component: {fileID: 700351115532878034}
   - component: {fileID: 4749318433701263511}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30846,7 +30846,7 @@ GameObject:
   - component: {fileID: 700351115533976212}
   - component: {fileID: 700351115532878036}
   - component: {fileID: 3932945688091904675}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30937,7 +30937,7 @@ GameObject:
   - component: {fileID: 700351115533976214}
   - component: {fileID: 700351115532878038}
   - component: {fileID: 2016569657473421768}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31028,7 +31028,7 @@ GameObject:
   - component: {fileID: 700351115533976216}
   - component: {fileID: 700351115532878040}
   - component: {fileID: 8810031813675773710}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31119,7 +31119,7 @@ GameObject:
   - component: {fileID: 700351115533976218}
   - component: {fileID: 700351115532878042}
   - component: {fileID: 5874708911504199342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31210,7 +31210,7 @@ GameObject:
   - component: {fileID: 700351115533976220}
   - component: {fileID: 700351115532878044}
   - component: {fileID: 6281489749216282121}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31301,7 +31301,7 @@ GameObject:
   - component: {fileID: 700351115533976222}
   - component: {fileID: 700351115532878046}
   - component: {fileID: 3766674107194105959}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31392,7 +31392,7 @@ GameObject:
   - component: {fileID: 700351115533976224}
   - component: {fileID: 700351115532878048}
   - component: {fileID: 4596624548942864382}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31480,7 +31480,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 700351115531109002}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Escaltors3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31567,7 +31567,7 @@ GameObject:
   - component: {fileID: 700351115533976228}
   - component: {fileID: 700351115532878052}
   - component: {fileID: 4866261178192861474}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31658,7 +31658,7 @@ GameObject:
   - component: {fileID: 700351115533976230}
   - component: {fileID: 700351115532878054}
   - component: {fileID: 2801083306793564902}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34949,7 +34949,7 @@ GameObject:
   - component: {fileID: 700351115533976304}
   - component: {fileID: 700351115532878128}
   - component: {fileID: 8373742813440989294}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35040,7 +35040,7 @@ GameObject:
   - component: {fileID: 700351115533976306}
   - component: {fileID: 700351115532878130}
   - component: {fileID: 2530345671267362444}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35131,7 +35131,7 @@ GameObject:
   - component: {fileID: 700351115533976308}
   - component: {fileID: 700351115532878132}
   - component: {fileID: 1845818658300642808}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35222,7 +35222,7 @@ GameObject:
   - component: {fileID: 700351115533976310}
   - component: {fileID: 700351115532878134}
   - component: {fileID: 1409827729226519}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EscaltorBackPlate10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39772,7 +39772,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956162030445705343}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4993.749, y: -143.08862, z: 399.85547}
+  m_LocalPosition: {x: -4993.749, y: -143.08862, z: 1100}
   m_LocalScale: {x: 0.094413355, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7821465750363554633}
@@ -40342,7 +40342,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3379987484931210552}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4993.749, y: -143.08862, z: -280.4068}
+  m_LocalPosition: {x: -4993.749, y: -143.08862, z: -1000}
   m_LocalScale: {x: 0.094413355, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7821465750363554633}
@@ -42478,6 +42478,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42532,6 +42537,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42553,6 +42563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42607,6 +42622,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42628,6 +42648,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42682,6 +42707,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42703,6 +42733,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42757,6 +42792,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42778,6 +42818,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42832,6 +42877,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42853,6 +42903,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42907,6 +42962,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -42928,6 +42988,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42982,6 +43047,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43003,6 +43073,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43057,6 +43132,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43133,21 +43213,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4.0625525
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 4.2375603
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2375603
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8b8d5c4f88084dca93dcc0b1573a923, type: 3}
 --- !u!4 &1156844901580707474 stripped
@@ -43167,6 +43232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: escalatorInternalCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
@@ -43222,6 +43292,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43243,6 +43318,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43297,6 +43377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43408,6 +43493,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43462,6 +43552,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43483,6 +43578,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43537,6 +43637,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43558,6 +43663,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43612,6 +43722,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43633,6 +43748,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43687,6 +43807,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43708,6 +43833,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43762,6 +43892,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43783,6 +43918,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43837,6 +43977,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -43858,6 +44003,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43912,6 +44062,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44008,6 +44163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44062,6 +44222,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44138,21 +44303,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4.0625525
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 4.2375603
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2375603
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8b8d5c4f88084dca93dcc0b1573a923, type: 3}
 --- !u!4 &914448375260133792 stripped
@@ -44172,6 +44322,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: escalatorInternalCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
@@ -44227,6 +44382,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44248,6 +44408,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44302,6 +44467,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44378,21 +44548,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4.0625525
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 4.2375603
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2375603
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8b8d5c4f88084dca93dcc0b1573a923, type: 3}
 --- !u!4 &8990033567402820613 stripped
@@ -44412,6 +44567,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: escalatorInternalCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
@@ -44467,6 +44627,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44543,21 +44708,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4.0625525
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 4.2375603
-      objectReference: {fileID: 0}
-    - target: {fileID: 3623614957754500980, guid: a8b8d5c4f88084dca93dcc0b1573a923,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 4.2375603
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8b8d5c4f88084dca93dcc0b1573a923, type: 3}
 --- !u!4 &7518456034330439609 stripped
@@ -44577,6 +44727,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: escalatorInternalCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
@@ -44632,6 +44787,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44653,6 +44813,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44707,6 +44872,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44728,6 +44898,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44782,6 +44957,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44803,6 +44983,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44857,6 +45042,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44878,6 +45068,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44932,6 +45127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
@@ -44953,6 +45153,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: escalatorInternalCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 5546511048765202398, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1861881660680410426, guid: 7d96bd52cb2164a00b58042f72a65175,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45007,6 +45212,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3922641743833209487, guid: 7d96bd52cb2164a00b58042f72a65175,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d96bd52cb2164a00b58042f72a65175, type: 3}
