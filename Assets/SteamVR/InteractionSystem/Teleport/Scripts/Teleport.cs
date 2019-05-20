@@ -908,6 +908,10 @@ namespace Valve.VR.InteractionSystem
 		//-------------------------------------------------
 		private void TeleportPlayer()
 		{
+			//Store the original player position.
+			//-Kieran
+			Vector3 teleportStartPos = player.trackingOriginTransform.position;
+
 			teleporting = false;
 
 			Teleport.PlayerPre.Send( pointedAtTeleportMarker );
@@ -954,6 +958,19 @@ namespace Valve.VR.InteractionSystem
 			}
 
 			Teleport.Player.Send( pointedAtTeleportMarker );
+
+			//Animate all objects between the start point
+			//and the end point of teleportation.
+			//-Kieran
+			Vector3 dir = player.trackingOriginTransform.position - teleportStartPos;
+			RaycastHit[] hits = Physics.CapsuleCastAll(teleportStartPos, teleportStartPos + Vector3.up * 100, 3,
+														dir.normalized, dir.magnitude);
+
+			BuildingAnimator a;
+			foreach(RaycastHit h in hits) {
+				a = h.transform.gameObject.GetComponent<BuildingAnimator>();
+				if(a != null) a.Activate();
+			}
 		}
 
 

@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+/* RippleAffector CLASS
+ * 
+ * Class that provides an array of ripples
+ * to the forcefield shader, based on
+ * the user touching the forcefield.
+ *
+ * -Kieran
+ */
 
 public class RippleAffector : MonoBehaviour
 {
@@ -28,16 +36,20 @@ public class RippleAffector : MonoBehaviour
 
     void OnTriggerStay(Collider col) {
         if(col.tag == "Player") {
-            if((lastPos - col.transform.position).sqrMagnitude > 0.1f * 0.1f)
-            if(Time.time - lastUpdateTime > 0.5f) {
-            ripples[nextIndex] = new Vector4(col.transform.position.x, col.transform.position.y, col.transform.position.z, Time.timeSinceLevelLoad);
-            nextIndex++;
-            if(nextIndex >= 10) nextIndex = 0;
-            lastUpdateTime = Time.time;
-            lastPos = col.transform.position;
+            //Only create a new ripple if the controller
+            //moved a sizeable amount.
+            if((lastPos - col.transform.position).sqrMagnitude > 0.1f * 0.1f) {
+                //Only create a new ripple every 0.5s.
+                if(Time.time - lastUpdateTime > 0.5f) {
+                    ripples[nextIndex] = new Vector4(col.transform.position.x, col.transform.position.y, col.transform.position.z, Time.timeSinceLevelLoad);
+                    nextIndex++;
+                    if(nextIndex >= 10) nextIndex = 0;
+                    lastUpdateTime = Time.time;
+                    lastPos = col.transform.position;
 
-            rippleMat.SetVectorArray("_RippleOrigins", ripples);
-        }
+                    rippleMat.SetVectorArray("_RippleOrigins", ripples);
+                }
+            }
         }
     }
 }
