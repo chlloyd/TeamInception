@@ -8,18 +8,18 @@ Within this project, a group of us created a working VR scene of Birmingham's ne
 
 ## Screenshots
 ### Cinema Render
-![Cinema Screenshot](docs/Cinema_Render1.jpg)
+<img src="docs/Cinema_Render1.jpg" width="750">
 
 ### Untextured Render
-![Station Screenshot](docs/Station_Render3.jpg)
+<img src="docs/Station_Render3.jpg" width="750">
 
 ### Textured Render
-![Station Screenshot](docs/Station_Render2.png)
+<img src="docs/Station_Render2.png" width="750">
 
 ### Close up Render
-![Station Screenshot](docs/Station_Render.png)
+<img src="docs/Station_Render.png" width="750">
 
 ## Quick Speed Run Video
-Click on the image to watch
+Click on the image to the quick demo video.
 
-[![Watch the video](https://i.ytimg.com/vi/MK5BwpnXjzc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCpgNIv2ri-jHjNiIEHyu7Ri45Vnw)](https://www.youtube.com/watch?v=MK5BwpnXjzc)
+<a href="https://www.youtube.com/watch?v=MK5BwpnXjzc"><img src="https://i.ytimg.com/vi/MK5BwpnXjzc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCpgNIv2ri-jHjNiIEHyu7Ri45Vnw" alt="HTML tutorial" width ="750"></a>
