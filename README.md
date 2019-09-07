@@ -1,8 +1,10 @@
 # TeamInceptio
 
+A VR Scene built with Unity and SteamVR of HS2's Curzon Street Station. 
+
 A university group project I was involved in creating assets.
 
-Within this project, a group of us created a working VR scene of Birmingham's new railway station Curzon Street Station as part of HS2 rail project in the UK.
+Within this project, a group of us created a working VR scene of Birmingham's new railway station Curzon Street Station as part of HS2 rail project in the UK. 
 
 ## Screenshots
 ### Cinema Render
